@@ -9,6 +9,8 @@
 | --- | --- |
 | [`doc-convert`](doc-convert/) | 本地把 docx / pdf / pptx / xlsx / 音视频转成 Markdown；不碰源文件、默认不联网 |
 
+| [`segment-analysis`](segment-analysis/) | 长课程 / 长视频按每 5 分钟一段做逐段分析：本地转写＋抽帧，再对照旧笔记查缺补漏 |
+
 更多技能整理中。
 
 ## 相关项目
